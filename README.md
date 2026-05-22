@@ -19,8 +19,9 @@ Foundations phase of my 30-day AI Engineering Bootcamp.
 ## 🚀 Setup & Run
 
 ### 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/day10-streamlit-chatbot
-cd day10-streamlit-chatbot
+git clone https://github.com/YOUR_USERNAME/streamlit-chatbot
+
+cd streamlit-chatbot
 
 ### 2. Install dependencies
 pip install -r requirements.txt
